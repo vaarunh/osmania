@@ -6,16 +6,6 @@ time.sleep(3)
 print()
 os.system("toilet -fmono12 -F gay OS-Mania ")
 print ("\033[96m   Code Made By www.github.com/varunherlekar")
-
-
-
-print (red+b+"              <===[[ coded by Varun Herlekar]]===>"+b+red)
-
-print (" ")
-
-print (pink+b+"        <---( Follow Me For More )--->"+b+pink)
-
-print (" ")
 print()
 print("\033[92m 1. Kali Linux ")
 print(" 2. Parrot ")
@@ -99,13 +89,3 @@ elif op == "13" :
 else :
    print(" Enter a valid option... ")
    print ("\033[96m   Code Made By www.github.com/varunherlekar")
-
-
-
-print (red+b+"              <===[[ coded by Varun Herlekar]]===>"+b+red)
-
-print (" ")
-
-print (pink+b+"        <---( Follow Me For More )--->"+b+pink)
-
-print (" ")
