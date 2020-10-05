@@ -81,11 +81,6 @@ elif op == "12" :
    os.system("cd")
    time.sleep(1.5)
    os.system("apt install wget openssl-tool proot tar -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Fedora/fedora.sh && bash fedora.sh")
-elif op == "13" :
-   print("\033[91m Installing centos... \033[0m ")
-   os.system("cd")
-   time.sleep(1.5)
-   os.system("apt install wget openssl-tool proot tar -y && hash -r && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/CentOS/centos.sh && bash centos.sh")
 else :
    print(" Enter a valid option... ")
    print ("\033[96m   Code Made By www.github.com/varunherlekar")
